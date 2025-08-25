@@ -84,8 +84,6 @@ This project was built as part of a hackathon to showcase **next-gen interview e
 ![AI Analysis Screenshot](images/Analysis2.jpg)
 ![Graph Screenshot](images/Graph.jpg)
 ![API Screenshot](images/API.jpg)
-
-
 ---
 
 ## 🙌 Team & Contributions
