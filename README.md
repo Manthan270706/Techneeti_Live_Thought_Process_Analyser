@@ -77,12 +77,12 @@ This project was built as part of a hackathon to showcase **next-gen interview e
 ---
 
 ## 📸 Screenshots
-![Home Screenshot](images/Home.jpg)
-![Editor Screenshot](images/Code.jpg)
-![Dashboard Screenshot](images/Dashboard.jpg)
+![Home Screenshot](images/home.jpg)
+![Editor Screenshot](images/code.jpg)
+![Dashboard Screenshot](images/dashboard.jpg)
 ![AI Analysis Screenshot](images/Analysis.jpg)
 ![AI Analysis Screenshot](images/Analysis2.jpg)
-![Graph Screenshot](images/Graph.jpg)
+![Graph Screenshot](images/graph.jpg)
 ![API Screenshot](images/API.jpg)
 ---
 
